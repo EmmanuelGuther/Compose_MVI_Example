@@ -1,0 +1,16 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Compose_MVI_Example"
+include (":app")
+include (":data")
+include (":domain")
+include (":commons")
+include (":features")
+include (":core_presentation")
+include ':di'
+include ':commons'

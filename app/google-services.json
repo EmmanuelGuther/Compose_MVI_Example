@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906606890534",
+    "project_id": "coloringapp-e32a5",
+    "storage_bucket": "coloringapp-e32a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906606890534:android:4f2252cb462abd534760e7",
+        "android_client_info": {
+          "package_name": "com.emmanuelguther.compose_mvi_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906606890534-efor3ld34baejeepgmogrm1rcjdqmdbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3Jq9NuDdmSTqLoJkAnjE7i5jOo-O9hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906606890534-efor3ld34baejeepgmogrm1rcjdqmdbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
